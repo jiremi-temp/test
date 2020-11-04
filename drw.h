@@ -1,5 +1,5 @@
 /* See LICENSE file for copyright and license details. */
-
+vot tak vot
 #if BAR_PANGO_PATCH
 #include <pango/pango.h>
 #include <pango/pangoxft.h>
